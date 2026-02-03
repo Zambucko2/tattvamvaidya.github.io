@@ -196,7 +196,7 @@ function App() {
                 skills: ["Technical Operations", "Equipment Maintenance", "Process Optimization"]
               },
               {
-                title: "Best Boy & 2nd Team Camera Operator",
+                title: "Best Boy & B Team Camera Operator",
                 company: "NLD Media",
                 period: "2022 - 2025",
                 description: "Managed lighting equipment and served as secondary camera operator for various media production projects.",
