@@ -429,7 +429,7 @@ function App() {
                   </div>
                   <div>
                     <div className="font-semibold">Email</div>
-                    <div className="text-slate-300">your.email@example.com</div>
+                    <div className="text-slate-300">tattvam.vaidya@gmail.com</div>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -438,7 +438,7 @@ function App() {
                   </div>
                   <div>
                     <div className="font-semibold">LinkedIn</div>
-                    <div className="text-slate-300">linkedin.com/in/yourprofile</div>
+                    <div className="text-slate-300">linkedin.com/in/tattvamvaidya</div>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -447,7 +447,7 @@ function App() {
                   </div>
                   <div>
                     <div className="font-semibold">GitHub</div>
-                    <div className="text-slate-300">github.com/yourusername</div>
+                    <div className="text-slate-300">github.com/Zambucko2</div>
                   </div>
                 </div>
               </div>
@@ -503,7 +503,7 @@ function App() {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-slate-400 mb-4 md:mb-0">
-              © 2024 Your Name. All rights reserved.
+              © 2026 Tattvam Vaidya. All rights reserved.
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-slate-400 hover:text-blue-400 transition-colors duration-300">
